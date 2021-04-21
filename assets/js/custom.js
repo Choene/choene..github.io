@@ -148,8 +148,8 @@
 				'name'       : c_name,
 				'email'      : c_email,
 				'phone'      : c_phone,
+				'company'    : c_company,
 				'subject'    : c_subject,
-				'company'      : c_company,
 				'message'    : c_message
 			};
 
