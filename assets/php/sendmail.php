@@ -1,7 +1,7 @@
 <?php
 
 // Send email $to
-$to = 'choene@cyintecs.co.za';
+$to = 'cchoene@cyintecs.co.za';
 
 function url(){
   return sprintf(
@@ -29,7 +29,7 @@ if($_POST) {
 
    // Set Message
    $message .= "Email from: " . $name . "<br />";
-	 $message .= "Email address: " . $email . "<br />";
+	$message .= "Email address: " . $email . "<br />";
    $message .= "Phone: " . $phone . "<br />";
    $message .= "Company: " . $company . "<br />";
    $message .= "Message: <br />";
