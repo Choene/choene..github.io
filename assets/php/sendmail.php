@@ -1,3 +1,6 @@
+<!-- This code is discarded -->
+
+
 <?php
 
 // Send email $to

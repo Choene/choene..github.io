@@ -1,3 +1,5 @@
+<!-- This code is discarded -->
+
 <?php
 
 
